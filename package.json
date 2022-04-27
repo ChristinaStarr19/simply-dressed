@@ -1,0 +1,28 @@
+{
+  "name": "simply-dressed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaStarr19/simply-dressed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristinaStarr19/simply-dressed/issues"
+  },
+  "homepage": "https://github.com/ChristinaStarr19/simply-dressed#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.0",
+    "if-env": "^1.0.4",
+    "mongoose": "^6.3.1",
+    "path": "^0.12.7"
+  }
+}
